@@ -1,8 +1,8 @@
 {
   "uuid": "133215f0-cf20-4c05-997b-3c9be5a64e5b",
-  "shortName": "Pebble.js",
-  "longName": "Pebble.js",
-  "companyName": "Meiguro",
+  "shortName": "Todoist Viewer",
+  "longName": "Todoist Viewer",
+  "companyName": "N/A",
   "versionCode": 1,
   "versionLabel": "0.4.0",
   "capabilities": [ ],
